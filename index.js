@@ -341,7 +341,7 @@ client.on('message', function (message) {
 })
 
 
-client.login('NjQwNTkzMTM2NDQzMTk1NDA0.Xb8FzA.vR_9hwz1Z433WCcktQfxq5xL3-k');
+client.login('');
 
 client.on("ready", () => console.log("Je suis prêt !"));
 client.on("error", console.error);
